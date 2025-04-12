@@ -18,3 +18,6 @@ testAPI.py
 weather_historical_1y .csv
 weather_historical_1y.csv
 y_pred.csv
+final_cleaned_merged_forecast.csv
+final_season_forecast.csv
+predicted_pm2_5_forecast.csv
